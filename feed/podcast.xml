@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Tienda de regalos mágicos</title>
+    <link>https://traviesito.neocities.org/tienda-regalos/feed/rss.xml</link>
+    <description>Últimas noticias y actualizaciones</description>
+    
+    <item>
+      <title>Caja de los sueños</title>
+      <link>https://traviesito.neocities.org/tienda-regalos/regalos/caja-de-los-suenos.html</link>
+      <description>Haz realidad los sueños con esta caja llena de magia y sorpresas. ¡El regalo perfecto para los soñadores!</description>
+      <pubDate>Tue, 11 Mar 2025 08:57:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Reloj del tiempo eterno</title>
+      <link>https://traviesito.neocities.org/tienda-regalos/regalos/reloj-tiempo-eterno.html</link>
+      <description>El tiempo es oro, pero la eternidad es un lujo. Lleva contigo el símbolo de la inmortalidad con el Reloj del Tiempo Eterno.</description>
+      <pubDate>Tue, 11 Mar 2025 08:57:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>

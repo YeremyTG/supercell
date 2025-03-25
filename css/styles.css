@@ -1,0 +1,539 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header img {
+    max-width: 50%;
+    margin: 0 auto;
+    color: #fff;
+    text-decoration: none;
+}
+
+header p {
+    margin: 5px 0 0;
+    font-size: 1.2em;
+}
+
+/* Navegación */
+nav {
+    background-color: #3498db;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.1em;
+}
+
+nav a:hover {
+    color: #33ff00;
+}
+
+/* Secciones */
+div {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Juegos */
+#juegos div {
+    display: inline-block;
+    width: 20%;
+    margin: 25px;
+    text-align: center;
+    
+}
+
+#juegos img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+#juegos h3 {
+    font-size: 1.3em;
+    margin: 10px 0;
+}
+
+#juegos p {
+    font-size: 0.9em;
+    color: #666;
+}
+
+
+/* Noticias */
+#noticias ul {
+    padding: 0;
+}
+
+#noticias li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #007BFF;
+}
+
+/* Footer */
+
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+.footer {
+    padding: 20px;
+    background-color: #2c3e50;
+    color: white;
+  }
+
+  div.redes-sociales {
+    background-color: #2c3e50;
+  }
+  .redes-sociales  {
+  margin-bottom: 10px;
+  text-align: left;
+  }
+  
+  .redes-sociales a {
+   margin-bottom: 5px;
+    display: block;
+  }
+  
+  .redes-sociales img {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+  }
+
+
+/* Estilos para el blog */
+#blog {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.entrada-blog {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.entrada-blog h3 {
+    color: #333;
+    margin-top: 0;
+}
+
+.entrada-blog .fecha {
+    color: #777;
+    font-size: 0.9em;
+    margin: 5px 0;
+}
+
+.entrada-blog img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.entrada-blog p {
+    color: #555;
+    line-height: 1.6;
+}
+
+.entrada-blog a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.entrada-blog a:hover {
+    text-decoration: underline;
+}
+
+
+
+/* Estilos para la tienda del post1 */
+.productos-tienda {
+    margin-top: 20px;
+    text-align: center; /* Centra los productos */
+}
+
+.producto {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    width: 30%; /* Ancho de cada producto */
+    display: inline-block; /* Coloca los productos en línea */
+    margin: 10px; /* Espacio entre productos */
+    vertical-align: top; /* Alinea los productos en la parte superior */
+    box-sizing: border-box; /* Incluye el padding en el ancho */
+}
+
+.producto img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.producto h4 {
+    color: #333;
+    margin: 10px 0;
+}
+
+.producto p {
+    color: #555;
+    line-height: 1.6;
+}
+
+.producto .precio {
+    color: #007BFF;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#consejos1 ul {
+    padding: 0;
+}
+
+#consejos1 li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #007BFF;
+}
+
+
+/* Responsive Design post1*/
+@media (max-width: 768px) {
+
+    .principal1{
+        width: 100%; /* Dos columnas en tablets */
+    }
+    .producto {
+        width: 45%; /* Dos columnas en tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    
+    .principal1{
+        width: 100%; /* Una columna en móviles */
+    }
+    .producto {
+        width: 100%; /* Una columna en móviles */
+    }
+}
+
+
+/* Estilos para la tienda del post2 */
+
+/* Estilos para los eventos */
+.eventos {
+    margin-top: 20px;
+    text-align: center; /* Centra los eventos */
+}
+
+.evento {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    width: 30%; /* Ancho de cada evento */
+    display: inline-block; /* Coloca los eventos en línea */
+    margin: 10px; /* Espacio entre eventos */
+    vertical-align: top; /* Alinea los eventos en la parte superior */
+    box-sizing: border-box; /* Incluye el padding en el ancho */
+}
+
+.evento img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.evento h4 {
+    color: #333;
+    margin: 10px 0;
+}
+
+.evento p {
+    color: #555;
+    line-height: 1.6;
+}
+
+.evento .recompensa {
+    color: #007BFF;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#consejos2 ul {
+    padding: 0;
+}
+
+#consejos2 li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #007BFF;
+}
+
+/* Responsive Design post2*/
+@media (max-width: 768px) {
+    
+    .principal2{
+        width: 100%; /* Dos columnas en tablets */
+    }
+    
+    .evento {
+        width: 45%; /* Dos columnas en tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    
+    .principal2{
+        width: 100%; /* Dos columnas en tablets */
+    }
+    
+    .evento {
+        width: 100%; /* Una columna en móviles */
+    }
+}
+
+
+
+/* Estilos para la tienda del post3 */
+
+.cartas {
+    margin-top: 20px;
+    text-align: center; /* Centra las cartas */
+}
+
+.carta {
+    background-color: #ae00ff38;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(128, 24, 24, 0.1);
+    padding: 15px;
+    width: 30%; /* Ancho de cada carta */
+    display: inline-block; /* Coloca las cartas en línea */
+    margin: 10px; /* Espacio entre cartas */
+    vertical-align: top; /* Alinea las cartas en la parte superior */
+    box-sizing: border-box; /* Incluye el padding en el ancho */
+}
+
+.carta img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.carta h4 {
+    color: #000000;
+    margin: 10px 0;
+}
+
+.carta p {
+    color: #000000;
+    line-height: 1.6;
+}
+
+.carta .nivel {
+    color: #007BFF;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#consejos3 ul {
+    padding: 0;
+}
+
+#consejos3 li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #007BFF;
+}
+
+
+/* Responsive Design post3*/
+@media (max-width: 768px) {
+    .principal3{
+        width: 100%; /* Dos columnas en tablets */
+    }
+    
+    
+    .carta {
+        width: 45%; /* Dos columnas en tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    .principal3{
+        width: 100%; /* Dos columnas en tablets */
+    }
+    
+    
+    .carta {
+        width: 100%; /* Una columna en móviles */
+    }
+}
+
+
+
+/* Estilos para el podcast */
+#podcast {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.episodios {
+    margin-top: 20px;
+}
+
+.episodio {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.episodio h4 {
+    color: #333;
+    margin-top: 0;
+}
+
+.episodio .fecha-episodio {
+    color: #777;
+    font-size: 0.9em;
+    margin: 5px 0;
+}
+
+.episodio audio {
+    margin-bottom: 10px;
+}
+
+.episodio p {
+    color: #555;
+    line-height: 1.6;
+}
+
+#podcast-consejos ul {
+    padding: 0;
+}
+
+#podcast-consejos li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #007BFF;
+}
+
+
+
+/* Responsive Design */
+@media (max-width: 480px) {
+    .episodio {
+        padding: 10px;
+    }
+}
+
+
+
+
+/* Media Queries para Responsive Design */
+
+/* Para tablets */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2em;
+    }
+
+    header p {
+        font-size: 1em;
+    }
+
+    nav a {
+        font-size: 1em;
+        margin: 0 10px;
+    }
+
+    #juegos div {
+        width: 45%; /* Dos columnas en tablets */
+    }
+}
+
+/* Para móviles */
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    header p {
+        font-size: 0.9em;
+    }
+
+    nav {
+        padding: 5px;
+    }
+
+    nav a {
+        display: block; /* En móviles, los enlaces se apilan verticalmente */
+        margin: 5px 0;
+    }
+
+    #juegos div {
+        width: 100%; /* Una columna en móviles */
+        margin: 10px 0;
+    }
+
+    #noticias li {
+        font-size: 0.9em;
+    }
+
+    footer {
+        position: static; /* El footer no se fija en móviles */
+    }
+
+    .redes-sociales a {
+        display: inline-block;
+      }
+
+    .redes-sociales {
+        text-align: center;
+      }
+}
