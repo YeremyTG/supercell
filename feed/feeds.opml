@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Supercell Feeds Subscription</title>
+    <dateCreated>Tue, 11 Mar 2025 09:00:00 GMT</dateCreated>
+    <ownerName>Yeremy Travieso</ownerName>
+    <ownerEmail>contacto@traviesito.neocities.org</ownerEmail>
+  </head>
+  
+  <body>
+    <!-- Feed principal -->
+    <outline text="Supercell Noticias" 
+             type="rss" 
+             xmlUrl="https://traviesito.neocities.org/supercell-rss/feed/rss.xml"
+             htmlUrl="https://traviesito.neocities.org/supercell-rss/index.html"
+             description="Feed oficial con actualizaciones de todos los juegos"/>
+    
+    <!-- Sección Blog -->
+    <outline text="Blog Supercell">
+      <outline text="Clash of Clans" 
+               type="rss" 
+               xmlUrl="https://traviesito.neocities.org/supercell-rss/feed/clash-rss.xml"
+               htmlUrl="https://traviesito.neocities.org/supercell-rss/blog/post1.html"
+               description="Guías y estrategias para Clash of Clans"/>
+      
+      <outline text="Brawl Stars" 
+               type="rss" 
+               xmlUrl="https://traviesito.neocities.org/supercell-rss/feed/brawl-rss.xml"
+               htmlUrl="https://traviesito.neocities.org/supercell-rss/blog/post2.html"
+               description="Eventos y personajes en Brawl Stars"/>
+    </outline>
+    
+    <!-- Sección Podcast -->
+    <outline text="Podcast Supercell" 
+             type="rss" 
+             xmlUrl="https://traviesito.neocities.org/supercell-rss/feed/podcast-rss.xml"
+             htmlUrl="https://traviesito.neocities.org/supercell-rss/podcast/index.html"
+             description="Episodios sobre estrategias y entrevistas"/>
+    
+    <!-- Feeds externos oficiales -->
+    <outline text="Fuentes Oficiales">
+      <outline text="Supercell Blog Oficial" 
+               type="rss" 
+               xmlUrl="https://supercell.com/en/feed/"
+               htmlUrl="https://supercell.com/en/news/"/>
+      
+      <outline text="Clash Royale Updates" 
+               type="rss" 
+               xmlUrl="https://clashroyale.com/blog/feed/"
+               htmlUrl="https://clashroyale.com/blog/"/>
+    </outline>
+  </body>
+</opml>
