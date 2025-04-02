@@ -6,13 +6,14 @@
         <description>Creando los mejores juegos móviles</description>
         <language>es</language>
         <copyright>© 2025 Podcast de Supercell de Yeremy Travieso</copyright>
+        <atom:link href="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/podcast.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
 
         <item>
             <title>Estrategias Avanzadas en Clash Royale</title>
             <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
             <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3</guid>
             <description>En este episodio, analizamos las mejores estrategias para dominar la arena en Clash Royale. ¡Escucha y conviértete en un maestro!</description>
-            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" type="audio/mpeg" />
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" type="audio/mpeg" length="12345678" />
         </item>
 
         <item>
@@ -20,7 +21,7 @@
             <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
             <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3</guid>
             <description>Descubre cómo aprovechar al máximo los eventos especiales en Brawl Stars y consigue recompensas exclusivas.</description>
-            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" type="audio/mpeg" />
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" type="audio/mpeg" length="12345678" />
         </item>
 
         <item>
@@ -28,7 +29,7 @@
             <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
             <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3</guid>
             <description>En este episodio, hablamos sobre las últimas actualizaciones de Clash of Clans y cómo afectan al juego.</description>
-            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" type="audio/mpeg" />
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" type="audio/mpeg" length="12345678" />
         </item>
     </channel>
 </rss>
