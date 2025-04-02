@@ -13,15 +13,15 @@
     <outline text="Blog Supercell">
       <outline text="Clash of Clans" 
                type="rss" 
-               xmlUrl="https://traviesito.neocities.org/supercell-rss/feed/clash-rss.xml"
-               htmlUrl="https://traviesito.neocities.org/supercell-rss/blog/post1.html"
+               xmlUrl="https://yeremytg.github.io/supercell/feed/rss.xml"
+               htmlUrl="https://yeremytg.github.io/supercell/"
                description="Guías y estrategias para Clash of Clans"/>
     
     <!-- Sección Podcast -->
     <outline text="Podcast Supercell" 
              type="rss" 
-             xmlUrl="https://traviesito.neocities.org/supercell-rss/feed/podcast-rss.xml"
-             htmlUrl="https://traviesito.neocities.org/supercell-rss/podcast/index.html"
+             xmlUrl="https://yeremytg.github.io/supercell/feed/podcast.xml"
+             htmlUrl="https://yeremytg.github.io/supercell/"
              description="Episodios sobre estrategias y entrevistas"/>
     </outline>
   </body>
