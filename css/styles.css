@@ -108,11 +108,14 @@ footer p {
     font-size: 0.9em;
 }
 
-.footer {
-    padding: 20px;
+
+
+footer {
     background-color: #000000;
     color: white;
-  }
+    padding: 10px;
+    text-align: center;
+}
 
   div.redes-sociales {
     background-color: #000000;
@@ -132,6 +135,21 @@ footer p {
     height: 30px;
     margin-right: 5px;
   }
+
+.rss-subscribe {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #000000;
+}
+
+.rss-subscribe a {
+    display: inline-block;
+    background-color: #f8b400;
+    color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
 
 
 /* Estilos para el blog */

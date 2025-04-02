@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Tienda de regalos mágicos</title>
-    <link>https://traviesito.neocities.org/tienda-regalos/feed/rss.xml</link>
-    <description>Últimas noticias y actualizaciones</description>
-    
-    <item>
-      <title>Caja de los sueños</title>
-      <link>https://traviesito.neocities.org/tienda-regalos/regalos/caja-de-los-suenos.html</link>
-      <description>Haz realidad los sueños con esta caja llena de magia y sorpresas. ¡El regalo perfecto para los soñadores!</description>
-      <pubDate>Tue, 11 Mar 2025 08:57:00 GMT</pubDate>
-    </item>
+    <channel>
+        <title>Podcast de Supercell</title>
+        <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
+        <description>Creando los mejores juegos móviles</description>
+        <language>es</language>
+        <copyright>© 2025 Podcast de Supercell de Yeremy Travieso</copyright>
 
-    <item>
-      <title>Reloj del tiempo eterno</title>
-      <link>https://traviesito.neocities.org/tienda-regalos/regalos/reloj-tiempo-eterno.html</link>
-      <description>El tiempo es oro, pero la eternidad es un lujo. Lleva contigo el símbolo de la inmortalidad con el Reloj del Tiempo Eterno.</description>
-      <pubDate>Tue, 11 Mar 2025 08:57:00 GMT</pubDate>
-    </item>
+        <item>
+            <title>Estrategias Avanzadas en Clash Royale</title>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3</guid>
+            <description>En este episodio, analizamos las mejores estrategias para dominar la arena en Clash Royale. ¡Escucha y conviértete en un maestro!</description>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" type="audio/mpeg" />
+        </item>
 
-  </channel>
+        <item>
+            <title>Eventos Especiales en Brawl Stars</title>
+            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3</guid>
+            <description>Descubre cómo aprovechar al máximo los eventos especiales en Brawl Stars y consigue recompensas exclusivas.</description>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" type="audio/mpeg" />
+        </item>
+
+        <item>
+            <title>Nuevas Actualizaciones en Clash of Clans</title>
+            <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3</guid>
+            <description>En este episodio, hablamos sobre las últimas actualizaciones de Clash of Clans y cómo afectan al juego.</description>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" type="audio/mpeg" />
+        </item>
+    </channel>
 </rss>
