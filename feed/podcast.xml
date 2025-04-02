@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Podcast de Supercell</title>
-        <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
+        <link>https://yeremytg.github.io/supercell/podcast/index.html</link>
         <description>Creando los mejores juegos móviles</description>
         <language>es</language>
         <copyright>© 2025 Podcast de Supercell de Yeremy Travieso</copyright>
@@ -11,7 +11,7 @@
         <item>
             <title>Estrategias Avanzadas en Clash Royale</title>
             <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3</guid>
+            <guid>https://yeremytg.github.io/supercell/podcast/index.html</guid>
             <description>En este episodio, analizamos las mejores estrategias para dominar la arena en Clash Royale. ¡Escucha y conviértete en un maestro!</description>
             <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" type="audio/mpeg" length="12345678" />
         </item>
@@ -19,7 +19,7 @@
         <item>
             <title>Eventos Especiales en Brawl Stars</title>
             <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
-            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3</guid>
+            <guid>https://yeremytg.github.io/supercell/podcast/index.html</guid>
             <description>Descubre cómo aprovechar al máximo los eventos especiales en Brawl Stars y consigue recompensas exclusivas.</description>
             <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" type="audio/mpeg" length="12345678" />
         </item>
@@ -27,7 +27,7 @@
         <item>
             <title>Nuevas Actualizaciones en Clash of Clans</title>
             <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
-            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3</guid>
+            <guid>https://yeremytg.github.io/supercell/podcast/index.html</guid>
             <description>En este episodio, hablamos sobre las últimas actualizaciones de Clash of Clans y cómo afectan al juego.</description>
             <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" type="audio/mpeg" length="12345678" />
         </item>
