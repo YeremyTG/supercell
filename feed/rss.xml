@@ -23,12 +23,11 @@
     </item>
 
     <item>
-      <title>Podcast Supercell</title>
-      <link>https://yeremytg.github.io/supercell/podcast/index.html</link>
-      <description>Escucha nuestros episodios exclusivos con desarrolladores, entrevistas a jugadores profesionales y discusiones sobre el meta actual en los juegos de Supercell. Disponible en plataformas de podcasting.</description>
+      <title>Blog Supercell</title>
+      <link>https://yeremytg.github.io/supercell/blog/index.html</link>
+      <description>Artículos detallados sobre mecánicas de juego, guías avanzadas y análisis de actualizaciones. Aprende estrategias para dominar en Clash Royale, consejos para construir tu aldea perfecta en Clash of Clans y trucos para ganar en Brawl Stars.</description>
       <pubDate>Tue, 11 Mar 2025 08:57:00 GMT</pubDate>
-      <category>Podcast</category>
-      <enclosure url="https://traviesito.neocities.org/supercell-rss/audio/podcast-sample.mp3" length="10240000" type="audio/mpeg"/>
+      <category>Blog</category>
     </item>
 
   </channel>
