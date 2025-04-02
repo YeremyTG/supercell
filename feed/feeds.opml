@@ -16,13 +16,6 @@
                xmlUrl="https://traviesito.neocities.org/supercell-rss/feed/clash-rss.xml"
                htmlUrl="https://traviesito.neocities.org/supercell-rss/blog/post1.html"
                description="Guías y estrategias para Clash of Clans"/>
-      
-      <outline text="Brawl Stars" 
-               type="rss" 
-               xmlUrl="https://traviesito.neocities.org/supercell-rss/feed/brawl-rss.xml"
-               htmlUrl="https://traviesito.neocities.org/supercell-rss/blog/post2.html"
-               description="Eventos y personajes en Brawl Stars"/>
-    </outline>
     
     <!-- Sección Podcast -->
     <outline text="Podcast Supercell" 
