@@ -2,13 +2,13 @@
 <rss version="2.0">
   <channel>
     <title>Supercell</title>
-    <link>https://traviesito.neocities.org/supercell-rss/feed/rss.xml</link>
+    <link>https://yeremytg.github.io/supercell/feed/rss.xml</link>
     <description>Estos son los juegos destacados: Clash of Clans, Brawl Stars y Clash Royale</description>
     <lastBuildDate>Tue, 25 Mar 2025 08:57:00 GMT</lastBuildDate>
     
     <item>
       <title>Página Principal de Supercell</title>
-      <link>https://traviesito.neocities.org/supercell-rss/index.html</link>
+      <link>https://yeremytg.github.io/supercell/index.html</link>
       <description>Descubre todo sobre los juegos estrella de Supercell. Conoce las últimas actualizaciones, estrategias y eventos especiales de Clash of Clans, Brawl Stars y Clash Royale en un solo lugar.</description>
       <pubDate>Tue, 11 Mar 2025 08:57:00 GMT</pubDate>
       <category>Inicio</category>
@@ -16,7 +16,7 @@
 
     <item>
       <title>Blog Supercell</title>
-      <link>https://traviesito.neocities.org/supercell-rss/blog/index.html</link>
+      <link>https://yeremytg.github.io/supercell/blog/index.html</link>
       <description>Artículos detallados sobre mecánicas de juego, guías avanzadas y análisis de actualizaciones. Aprende estrategias para dominar en Clash Royale, consejos para construir tu aldea perfecta en Clash of Clans y trucos para ganar en Brawl Stars.</description>
       <pubDate>Tue, 11 Mar 2025 08:57:00 GMT</pubDate>
       <category>Blog</category>
@@ -24,7 +24,7 @@
 
     <item>
       <title>Podcast Supercell</title>
-      <link>https://traviesito.neocities.org/supercell-rss/podcast/index.html</link>
+      <link>https://yeremytg.github.io/supercell/podcast/index.html</link>
       <description>Escucha nuestros episodios exclusivos con desarrolladores, entrevistas a jugadores profesionales y discusiones sobre el meta actual en los juegos de Supercell. Disponible en plataformas de podcasting.</description>
       <pubDate>Tue, 11 Mar 2025 08:57:00 GMT</pubDate>
       <category>Podcast</category>
